@@ -1,6 +1,13 @@
 # Scripts
 Various scripts for administration/forensic.
 
+## Useful links
+
+* [Astra Linux user creation automatisation](https://github.com/yurylunev/astra-script) by [yurylunev](https://github.com/yurylunev)
+   * > Скрипт автоматического создания пользователей в ОС Astra Linux.
+* [usbrip](https://github.com/snovvcrash/usbrip) by [snovvcrash](https://github.com/snovvcrash)
+   * > usbrip (inherited from "USB Ripper", not "USB R.I.P.") is a simple forensics tool with command line interface that lets you keep track of USB device artifacts (i.e., USB event history) on Linux machines.  
+
 ## usb_seek
 
 Script for parsing system journals and get USB plugs events for audit. 
